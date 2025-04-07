@@ -1,0 +1,33 @@
+# cmake template
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+CMakeUserPresets.json
+
+# Lithe Directories
+bin
+bin-int/
+
+# Lithe Files
+*.log
+
+# Visual Studio Files
+.vs
+.vscode
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**.csproj
+**.user
+
+# MISC
+.env
